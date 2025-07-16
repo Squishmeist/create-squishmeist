@@ -1,1 +1,1 @@
-console.log("Hello from the Basic Template!");
+console.log("Hello from <%= projectName %>!");
